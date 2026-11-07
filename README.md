@@ -9,5 +9,6 @@ The whole Shadow Paws game as an Android app: every feature of the web version, 
 
 # Shadow Paws HTML
 basically no internet play
-cuz u not on claude.ai
 but SONION dont you dare use the normal src code, ITS NOT FULL
+
+bro do NOT use any src code exept html file and apk
